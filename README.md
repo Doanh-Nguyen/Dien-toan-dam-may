@@ -4,6 +4,7 @@ Tóm tắt mô tả đồ án
 Đồ án này tập trung vào việc triển khai dịch vụ Điện toán đám mây trên nền tảng AWS EC2 và các công cụ bảo mật liên quan.
 
 Trong quá trình thực hiện, nhóm đã:
+
 Trình bày cơ sở lý thuyết về Điện toán đám mây và các loại hình dịch vụ chính (IaaS, PaaS, SaaS).
 Nghiên cứu và triển khai các dịch vụ của Amazon Web Services (AWS), tập trung vào Amazon EC2 để tạo máy chủ ảo.
 Xây dựng và bảo mật một hệ thống web tĩnh và web động.
